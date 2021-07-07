@@ -1,0 +1,12 @@
+class void CastOp {
+    public static void main (String[] args)
+    
+        double x;
+        int n = 5, m = 2;
+
+        x = n / m;
+        System.out.println ("x: " + x) ;
+        X = (double) n / m;
+        System.out.println ("x: " + x) ;
+    } // main
+} // class CastOp
